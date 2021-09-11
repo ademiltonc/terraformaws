@@ -29,7 +29,7 @@ variable "instance_type" {
 
 variable "repo" {
     description = "Repository of the application"
-    default = ""
+    default = "https://github.com/ademiltonc/terraformaws"
     
   
 }
