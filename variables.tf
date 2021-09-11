@@ -14,7 +14,7 @@ variable "name" {
 
 variable "env" {
   description = "Environment of the application"
-  default     = "dev"
+  default     = "hml"
 }
 
 variable "ami" {
